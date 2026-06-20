@@ -24,4 +24,5 @@ Hi, I'm Moses Gitau Njeri
 ### THIS SEMISTER
 This semister am determined to finish my short cource of Ai
 
-***print(Hello World!)***
+2.
+   ***print(Hello World!)***
