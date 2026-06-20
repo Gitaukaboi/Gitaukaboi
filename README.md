@@ -41,7 +41,13 @@ Making Bold and Italics
 3. git commit -m "your message"
 ### Tables
 |Tool|purpose|Links|
-|:---|:---:|---:|
+|:---:|:---:|---:|
 | Wireshark|Nmap|Git|
 |Github|Git|Visual studio code|
-###
+### Creating Tasks
+- [x] To add my skills
+- [ ] To bronden the horozone in It field
+- [ ] To always make my work easier using AI
+- [ ] understanding how to use Github
+- [x] Getting to know more friends
+      
