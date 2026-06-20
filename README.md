@@ -25,4 +25,4 @@ Hi, I'm Moses Gitau Njeri
 This semister am determined to finish my short cource of Ai
 
 2. Making Bold and Italics
-   ***print(Hello World!)***
+   **_print(Hello World!)_**
