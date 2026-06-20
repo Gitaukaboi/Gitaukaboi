@@ -23,9 +23,9 @@ Hi, I'm Moses Gitau Njeri
 
 ### This Semister
 This semister am determined to finish my short cource of Ai
-
-2. Making Bold and Italics
-   **_print(Hello World!)_**
+### Text Formarting
+Making Bold and Italics
+**_print(Hello World!)_**
 ### Links
 [Gitaukaboi's GitHub Profile](https://github.com)
 
