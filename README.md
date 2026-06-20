@@ -57,5 +57,5 @@ pythondef greet(name):
     """
     return f"Hello, {name}! Welcome to Python programming."
 
-# Execute the function
+Execute the function
 print(greet("Developer"))
