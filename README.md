@@ -26,7 +26,16 @@ This semister am determined to finish my short cource of Ai
 
 2. Making Bold and Italics
    **_print(Hello World!)_**
-   
+### Links
 [Gitaukaboi's GitHub Profile](https://github.com)
 
 [The National Treasury](https://treasury.go.ke)
+
+### unordered list of 3 things i want to learn
+- Ai models
+- wireshark
+- Nmap
+### oredered list of the 3 steps to make a commit in Git 
+1. Create or modify files in your working directory.
+2. git add . to stage all modified files
+3. git commit -m "your message"
