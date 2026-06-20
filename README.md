@@ -18,8 +18,8 @@ Hi, I'm Moses Gitau Njeri
   
 ## MY LEARNING GOALS
 1. To add my skills
-2. To bronden the horozone in It field
-3. To always make my work easier using AI
+ 2. To bronden the horozone in It field
+  3. To always make my work easier using AI
 
 ### THIS SEMISTER
 This semister am determined to finish my short cource of Ai
