@@ -53,13 +53,14 @@ Making Bold and Italics
 - [x] Getting to know more friends
 ### CodeBlock
 python
+####
 def greet(name):
 ####
     """
     Returns a personalized greeting message.
     """
 ####
-    return f"Hello, {name}! Welcome to Python programming."
+    return f"Hello, {name}! Welcome to WECAN Ai class season11."
     
 #### Execute the function
-print(greet("Developer"))
+print(greet("MOSES"))
