@@ -64,3 +64,8 @@ def greet(name):
     
 #### Execute the function
 print(greet("MOSES"))
+### blockquote
+>Companies are already hacked or they just don't know they are.
+>
+>>There is no clean big money and there is no big money which is clean 
+
