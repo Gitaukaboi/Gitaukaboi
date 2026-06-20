@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Gitaukaboi
-- 👀 I’m developer passionate about Networking, A.I and cybersecurity
-- 🌱 I’m currently learning and adding skills in Networking, Artificial Intelligence and Cyber Security
-- 💞️ I’m looking to collaborate on projects regarding my passion
-- 📫 How to reach me @mosesmilania96@gmail.com or mosesmilania99@gmail.com
-- ⚡ Fun fact: i love in knowing more in what i like.
-- Tel:+254705980235
-<!---
-Gitaukaboi/Gitaukaboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Moses Gitau Njeri
+
+## About Me
+- I'm currently learning Artificial Intelligent.
+- I'm interested in AI and Cybersecurity analysis
+## Skills I'm Building
+- Git and GitHub
+  1. AI
+  2. cybersecurity analysis skills
+  3. troubleshooting network
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: mosesmilania96@gmail.com
+- mosesmilania99@gmail.com
+- LinkedIn: 
