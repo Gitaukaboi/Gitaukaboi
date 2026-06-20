@@ -16,13 +16,13 @@ Hi, I'm Moses Gitau Njeri
 - mosesmilania99@gmail.com
 - LinkedIn:
   
-## MY LEARNING GOALS
+## My Learning Goals
 1. To add my skills
  2. To bronden the horozone in It field
   3. To always make my work easier using AI
 
-### THIS SEMISTER
+### This Semister
 This semister am determined to finish my short cource of Ai
 
-2.
+2. Making Bold and Italics
    ***print(Hello World!)***
