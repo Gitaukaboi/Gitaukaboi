@@ -25,6 +25,7 @@ Hi, I'm Moses Gitau Njeri
 This semister am determined to finish my short cource of Ai
 ### Text Formarting
 Making Bold and Italics
+
 **_print(Hello World!)_**
 ### Links
 [Gitaukaboi's GitHub Profile](https://github.com)
@@ -56,6 +57,6 @@ pythondef greet(name):
     Returns a personalized greeting message.
     """
     return f"Hello, {name}! Welcome to Python programming."
-####Execute the function
-
+    
+#### Execute the function
 print(greet("Developer"))
