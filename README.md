@@ -56,6 +56,6 @@ pythondef greet(name):
     Returns a personalized greeting message.
     """
     return f"Hello, {name}! Welcome to Python programming."
-
 ####Execute the function
+
 print(greet("Developer"))
