@@ -52,10 +52,13 @@ Making Bold and Italics
 - [ ] understanding how to use Github
 - [x] Getting to know more friends
 ### CodeBlock
-pythondef greet(name):
+python
+def greet(name):
+####
     """
     Returns a personalized greeting message.
     """
+####
     return f"Hello, {name}! Welcome to Python programming."
     
 #### Execute the function
