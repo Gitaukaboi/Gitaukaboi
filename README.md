@@ -39,3 +39,7 @@ Making Bold and Italics
 1. Create or modify files in your working directory.
 2. git add . to stage all modified files
 3. git commit -m "your message"
+### Tables
+|Tool|purpose|Links|
+|:---|:---:|---:|
+| Row2, col|Row2, col2|Row2, col3|
