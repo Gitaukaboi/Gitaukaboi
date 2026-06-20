@@ -26,3 +26,5 @@ This semister am determined to finish my short cource of Ai
 
 2. Making Bold and Italics
    **_print(Hello World!)_**
+[Gitaukaboi's GitHub Profile](https://github.com)
+[The National Treasury](https://treasury.go.ke)
